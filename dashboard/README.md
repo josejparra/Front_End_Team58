@@ -12,7 +12,7 @@ Soon
 git clone https://github.com/JulianEgas/Front_End_Team58.git
 ```
 
-2. Create and activate virtual environment (windows)
+2. Create and activate virtual environment (windows) (Optional)
 ```
 python -m virtualenv venv
 cd venv/Scripts
