@@ -9,7 +9,7 @@ Soon
 ## Instructions to run locally.
 1. Clone this repo
 ```
-git clone https://github.com/__/dash-taxes_analysis.git
+git clone https://github.com/JulianEgas/Front_End_Team58.git
 ```
 
 2. Create and activate virtual environment (windows)
