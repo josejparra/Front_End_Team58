@@ -1,3 +1,5 @@
+# Taxes Revenue Dashboard
+
 ## Description
 A multipage application to forecast the tax income of Rionegro Municipality.
 
@@ -5,6 +7,18 @@ A multipage application to forecast the tax income of Rionegro Municipality.
 
 Soon
 
+## Folder structure
+
+```
+project_root/
+│
+├── assets/               # Project assets and styles (css)
+├── data/                 # Data connectors, queries and DAO
+├── apps/                 # Python files with the layouts for each tab
+├── app.py                # Dash main app definition
+├── index.py              # Main Dash file / Callback
+├── requirements.txt      # Requirements for running the Dash app
+```
 
 ## Instructions to run locally.
 1. Clone this repo
@@ -12,11 +26,9 @@ Soon
 git clone https://github.com/__/dash-taxes_analysis.git
 ```
 
-2. Create and activate virtual environment (windows)
+2. Change to the project folder from the command line
 ```
-python -m virtualenv venv
-cd venv/Scripts
-activate
+cd dashboard
 ```
 
 3. Come back to project folder and install dependencies using requirements.txt
