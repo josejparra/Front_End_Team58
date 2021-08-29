@@ -2,7 +2,7 @@
 
 ![image info](./assets/FrontendView.png)
 
-[EstudiApp](https://www.google.com "Frontend") is powered by _Digital Ocean_ and _Azure_ services, of which we use the following:
+[Triibu](https://www.google.com "Frontend") is powered by _Digital Ocean_ and _Azure_ services, of which we use the following:
 
 - Frontend deployment:
   - Digital Ocean Droplet with Ubuntu 20.04 distribution
@@ -14,12 +14,12 @@
 
 The full stack can be diagramed as this:
 
-![image info](./assets/Team56_Architecture.png)
+![image info](./assets/Team58_Architecture.png)
 
 
 ## Data science workflow
 
-![image info](./ds_notebooks/Team56_DS_Workflow.png)
+![image info](./ds_notebooks/Team58_DS_Workflow.png)
 
 ### Notebooks index
 
