@@ -1,7 +1,7 @@
 # Triibu App
 [Triibu](www.rionegrodatascience.com "Frontend") is a Data Science powered dashboard that will allow Rionegro Major's office to analyze and forecast their income from property and business taxes, and to take the best investment decisions for the municipality.
 
-![image info](./assets/Home_ss.png)
+![image info](./assets/Home_ss.PNG)
 
 ## Folder Structure
 
