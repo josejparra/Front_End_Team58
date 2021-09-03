@@ -1,0 +1,17 @@
+dash
+dash-bootstrap-components
+dash-core-components
+dash-html-components
+dash-renderer
+dash-table
+Flask
+gunicorn
+matplotlib
+numpy
+pandas==1.2.5
+plotly
+requests
+scipy
+seaborn
+sklearn
+psycopg2
