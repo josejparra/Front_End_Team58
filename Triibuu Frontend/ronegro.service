@@ -1,0 +1,13 @@
+[Unit]
+Description=uWSGI instance to serve rionegro project
+After=network.target
+
+[Service]
+User=sammy
+Group=www-data
+WorkingDirectory=/home/egas/rionegro/dashboard
+Environment="PATH=/home/egas/rionegro/myprojectenv/bin"
+ExecStart=/home/egas/rionegro/myprojectenv/bin/uwsgi --emperor rionegro.ini
+
+[Install]
+WantedBy=multi-user.target
