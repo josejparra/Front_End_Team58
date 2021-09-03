@@ -1,6 +1,6 @@
 # Backend
 
-![image info](./assets/Home_ss.png)
+![image info](./assets/Home_ss.PNG)
 
 [Triibu](www.rionegrodatascience.com "Frontend") is powered by _Digital Ocean_ and _Azure_ services, of which we use the following:
 
